@@ -1,2 +1,5 @@
-# requirment 
-pip install -r requirnment.txt
+# watermark detection
+
+## requirnments
+
+pip install -r requirements.txt
